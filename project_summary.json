@@ -1,0 +1,16 @@
+{
+    "Project": "Customer Churn Prediction",
+    "Dataset": "Churn_Modelling.csv",
+    "Target": "Exited",
+    "Models": [
+        "Logistic Regression",
+        "Random Forest",
+        "Gradient Boosting"
+    ],
+    "Best Model": "Gradient Boosting",
+    "Accuracy": 0.869,
+    "Precision": 0.7821,
+    "Recall": 0.4939,
+    "F1 Score": 0.6054,
+    "ROC-AUC": 0.8702
+}

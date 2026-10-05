@@ -1,0 +1,2 @@
+CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Churn Probability,Prediction
+650,France,Female,35,5,75000,1,1,1,60000,10.16,Likely to Stay
